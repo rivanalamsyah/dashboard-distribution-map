@@ -2,8 +2,6 @@
 
 A comprehensive dashboard for visualizing and analyzing zakat collection and distribution data across the Special Region of Yogyakarta Province.
 
-![Dashboard Preview](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-05-09%20at%2013.59.34_f8ab2360.jpg-53LY1vnyB2a6js7Hz2EcU4gHb94oUz.jpeg)
-
 ## Overview
 
 The Zakat Distribution System is a web-based application designed to provide stakeholders with in-depth insights into the effectiveness of zakat programs and facilitate data-driven decision making. The system visualizes collection and distribution data through interactive maps, charts, and detailed reports.
@@ -54,7 +52,7 @@ The Zakat Distribution System is a web-based application designed to provide sta
 
    ```shell
    git clone https://github.com/rivanalamsyah/dashboard-distribution-map.git
-   cd zakat-distribution-system
+   cd dashboard-distribution-map
    ```
 
 2. **Install dependencies:**
